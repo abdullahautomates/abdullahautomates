@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Abdullah Mustafa</title>
+<desc id="desc">AI systems architecture. Business process design. Workflow automation.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#122b3d"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="310" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="310" rx="16" fill="url(#grid)"/>
+<text x="600" y="64" text-anchor="middle" fill="#2dd4bf" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">DIAGNOSE. DESIGN. BUILD. EVALUATE.</text>
+<text x="600" y="142" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="66" letter-spacing="-2">Abdullah Mustafa</text>
+<text x="600" y="185" text-anchor="middle" fill="#b3c6d8" font-family="Arial, Helvetica, sans-serif" font-size="20">AI systems architecture · Business process design · Workflow automation</text>
+<path d="M0 252 Q200 212 400 254 T800 254 T1200 248 V310 H0Z" fill="url(#accent)" opacity=".12"/>
+<path d="M0 276 Q240 231 480 275 T960 275 T1200 266 V310 H0Z" fill="url(#accent)" opacity=".25"/>
+<path d="M0 297 Q300 262 600 295 T1200 284 V310 H0Z" fill="url(#accent)"/>
+</svg>
