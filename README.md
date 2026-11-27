@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Abdullah Mustafa — AI systems architecture, business process design, workflow automation" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=C6AA70&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Business+problems+%E2%86%92+AI+systems;Diagnose+first.+Then+automate.;Built+with+Claude+Code.+Tested+against+the+problem." width="100%" alt="Business problems → AI systems. Diagnose first. Then automate. Built with Claude Code. Tested against the problem." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=C6AA70&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Business+problems+%E2%86%92+AI+systems;Diagnose+first.+Then+automate.;From+process+diagnosis+to+working+systems." width="100%" alt="Business problems → AI systems. Diagnose first. Then automate. From process diagnosis to working systems." />
   <p><strong>Entrepreneurship &amp; Economics at Southern Miss · Hattiesburg, Mississippi</strong></p>
   <p>
     <a href="https://abdullahmustafa.site"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Portfolio" /></a>
@@ -13,7 +13,7 @@
 
 I've designed and built 20+ AI systems across sales, HR, content, and operations. I co-founded Forerunners Tech Labs in high school, led client discovery and delivery, and now study Entrepreneurship and Economics at the University of Southern Mississippi.
 
-My work starts with process diagnosis: where does the work stall, what information is missing, and which decisions need a person? Then I build the system with Claude Code and test whether it solves the problem.
+My work starts with process diagnosis: where does the work stall, what information is missing, and which decisions need a person? Then I design and build the system, connect the tools it needs, and test whether it solves the problem.
 
 Currently exploring company knowledge systems, approval-based agents, and machine learning through projects.
 
@@ -67,7 +67,7 @@ Built during my work at Forerunners Tech Labs. These are summaries of the public
 ```mermaid
 flowchart LR
     A[Understand the process] --> B[Design the system]
-    B --> C[Build with Claude Code]
+    B --> C[Build and integrate]
     C --> D[Evaluate outputs]
     D --> E[Human review]
     E --> F[Improve the workflow]
@@ -84,19 +84,29 @@ flowchart LR
 
 **Systems:** process mapping · AI agents · RAG & knowledge systems · workflow automation · data enrichment · human approval workflows
 
-**Build & orchestration**
+**AI development**
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-141B2D?style=for-the-badge&logo=claude&logoColor=D97757)
-![n8n](https://img.shields.io/badge/n8n-141B2D?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Airtable](https://img.shields.io/badge/Airtable-141B2D?style=for-the-badge&logo=airtable&logoColor=18BFFF)
-![Slack](https://img.shields.io/badge/Slack-141B2D?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0C0C0B?style=for-the-badge&logo=claude&logoColor=C6AA70)
+![Codex](https://img.shields.io/badge/Codex-0C0C0B?style=for-the-badge&logo=openai&logoColor=C6AA70)
+![Antigravity](https://img.shields.io/badge/Antigravity-0C0C0B?style=for-the-badge&logo=google&logoColor=C6AA70)
+
+**Workflow automation**
+
+![n8n](https://img.shields.io/badge/n8n-0C0C0B?style=for-the-badge&logo=n8n&logoColor=C6AA70)
+![Zapier](https://img.shields.io/badge/Zapier-0C0C0B?style=for-the-badge&logo=zapier&logoColor=C6AA70)
+![Make](https://img.shields.io/badge/Make-0C0C0B?style=for-the-badge&logo=make&logoColor=C6AA70)
+
+**Data & operations**
+
+![Airtable](https://img.shields.io/badge/Airtable-0C0C0B?style=for-the-badge&logo=airtable&logoColor=C6AA70)
+![Slack](https://img.shields.io/badge/Slack-0C0C0B?style=for-the-badge&logo=slack&logoColor=C6AA70)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0C0C0B?style=for-the-badge)
 
 **Channels & delivery**
 
-![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-141B2D?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-141B2D?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-141B2D?style=for-the-badge&logo=ffmpeg&logoColor=007808)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-141B2D?style=for-the-badge)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-0C0C0B?style=for-the-badge&logo=whatsapp&logoColor=C6AA70)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0C0C0B?style=for-the-badge&logo=elevenlabs&logoColor=C6AA70)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0C0C0B?style=for-the-badge&logo=ffmpeg&logoColor=C6AA70)
 
 ## Beyond the builds
 
