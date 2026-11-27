@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Abdullah Mustafa — AI systems architecture, business process design, workflow automation" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Business+problems+%E2%86%92+AI+systems;Diagnose+first.+Then+automate.;Built+with+Claude+Code.+Tested+against+the+problem." width="100%" alt="Business problems → AI systems. Diagnose first. Then automate. Built with Claude Code. Tested against the problem." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=C6AA70&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Business+problems+%E2%86%92+AI+systems;Diagnose+first.+Then+automate.;Built+with+Claude+Code.+Tested+against+the+problem." width="100%" alt="Business problems → AI systems. Diagnose first. Then automate. Built with Claude Code. Tested against the problem." />
   <p><strong>Entrepreneurship &amp; Economics at Southern Miss · Hattiesburg, Mississippi</strong></p>
   <p>
     <a href="https://abdullahmustafa.site"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Portfolio" /></a>
