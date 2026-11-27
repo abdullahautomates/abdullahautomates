@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Abdullah Mustafa — AI systems architecture, business process design, workflow automation" />
+  <img src="assets/header.png" width="100%" alt="AI Systems Architecture &amp; Strategy — AI agents, workflow automation, and business process design. Black and gold banner with a golden eagle." />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=C6AA70&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Business+problems+%E2%86%92+AI+systems;Diagnose+first.+Then+automate.;From+process+diagnosis+to+working+systems." width="100%" alt="Business problems → AI systems. Diagnose first. Then automate. From process diagnosis to working systems." />
   <p><strong>Entrepreneurship &amp; Economics at Southern Miss · Hattiesburg, Mississippi</strong></p>
   <p>
